@@ -7,8 +7,8 @@ A minimalistic unix shell built with go.
 The following are the current features of the shell:
 
 - [X] Run commands
-- [] Commands piping 
-- [] Files manipulation
+- [ ] Commands piping 
+- [ ] Files manipulation
 
 ## Usage
 
